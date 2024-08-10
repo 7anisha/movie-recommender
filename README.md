@@ -91,7 +91,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+[https://github.com/7anisha/movie-recommender.git]
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -122,9 +122,4 @@ streamlit run app.py
 ```
 
 
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
 
-```
